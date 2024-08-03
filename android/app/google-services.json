@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274153309703",
+    "project_id": "dataharbour-307f4",
+    "storage_bucket": "dataharbour-307f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274153309703:android:67c1bb3a549b4a8ff90ca2",
+        "android_client_info": {
+          "package_name": "com.example.appharbour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIc3GNYe8wwGeN5tqWfPVRaXNQfMcu9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

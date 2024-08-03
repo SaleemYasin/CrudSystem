@@ -1,0 +1,16 @@
+com.example.appharbour.app-core-1.6.0-0 C:\Users\Salee\.gradle\caches\transforms-3\1227bb32d338e358eff4c5bf5b08270c\transformed\core-1.6.0\res
+com.example.appharbour.app-jetified-window-1.0.0-beta04-1 C:\Users\Salee\.gradle\caches\transforms-3\1f063c91a907141588f51f373b1f5f4a\transformed\jetified-window-1.0.0-beta04\res
+com.example.appharbour.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Salee\.gradle\caches\transforms-3\6d2f8042b989e9f02a2914d91ea7c64c\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.appharbour.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Salee\.gradle\caches\transforms-3\a15c6353ebee292a754ca976f2ce177d\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.appharbour.app-jetified-firebase-common-21.0.0-4 C:\Users\Salee\.gradle\caches\transforms-3\a1e9b7e171ebe989e7c2215846d4f6bc\transformed\jetified-firebase-common-21.0.0\res
+com.example.appharbour.app-jetified-play-services-basement-18.3.0-5 C:\Users\Salee\.gradle\caches\transforms-3\e76aed36a087f5f71489bfa0e357771e\transformed\jetified-play-services-basement-18.3.0\res
+com.example.appharbour.app-packaged_res-6 C:\Users\Salee\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.3.0\android\build\intermediates\packaged_res\release
+com.example.appharbour.app-google-services-7 C:\projects\LaptopHarbour-main\android\app\build\generated\res\google-services\release
+com.example.appharbour.app-pngs-8 C:\projects\LaptopHarbour-main\android\app\build\generated\res\pngs\release
+com.example.appharbour.app-resValues-9 C:\projects\LaptopHarbour-main\android\app\build\generated\res\resValues\release
+com.example.appharbour.app-rs-10 C:\projects\LaptopHarbour-main\android\app\build\generated\res\rs\release
+com.example.appharbour.app-mergeReleaseResources-11 C:\projects\LaptopHarbour-main\android\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.appharbour.app-mergeReleaseResources-12 C:\projects\LaptopHarbour-main\android\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.appharbour.app-merged_res-13 C:\projects\LaptopHarbour-main\android\app\build\intermediates\merged_res\release
+com.example.appharbour.app-main-14 C:\projects\LaptopHarbour-main\android\app\src\main\res
+com.example.appharbour.app-release-15 C:\projects\LaptopHarbour-main\android\app\src\release\res
